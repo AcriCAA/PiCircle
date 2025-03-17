@@ -1,6 +1,6 @@
 # Animated Circle Motion with Matplotlib
 
-This Python script creates an animated visualization of two points rotating in circular motion. The first point moves in a large circular path, while the second point rotates around the first at a speed multiplier of pi. The animation uses a black background with neon colors for the points and trails. There are a few different versions but the one that works best is ```draw_circle_pi_dark.py```. Run ```draw_circle.py`` to see how it is drawn using a rational number speed variable and then run ```draw_circle_pi_dark.py``` to see how it draws with irrational pi as the speed variable. 
+This Python script creates an animated visualization of two points rotating in circular motion. The first point moves in a large circular path, while the second point rotates around the first at a speed multiplier of pi. The animation uses a black background with neon colors for the points and trails. There are a few different versions but the one that works best is ```draw_circle_pi_dark.py```. Run ```draw_circle.py``` FIRST to see how it is drawn using a rational number speed variable and then run ```draw_circle_pi_dark.py``` to see how it draws with irrational pi as the speed variable. 
 
 ## Inspiration
 This project was inspired by an article from WIRED by Rhett Allain: [Can't Wrap Your Head Around Pi? Here's a Cool Visual to Help](https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/). The visualization demonstrates circular motion in an engaging and intuitive way.
